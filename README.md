@@ -1,2 +1,1 @@
-# aventura-bianca-tomas-kira
-Una aventura interactiva romántica protagonizada por Bianca, Tomás y Kira, con decisiones, misterios y finales diferentes.
+Una aventura interactiva romántica protagonizada por Bianca, su novio Tomás y su gatita Kira. Juntos vivirán una historia llena de magia, misterios, desafíos y decisiones que cambiarán el rumbo de su aventura. Explora mundos fantásticos, resuelve acertijos, descubre secretos, encuentra a Kira y desbloquea distintos finales según tus elecciones.
